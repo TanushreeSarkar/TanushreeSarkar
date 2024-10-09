@@ -17,9 +17,6 @@ I enjoy using my obsessive attention to detail and unwavering passion for creati
   <img src="https://github.com/devicons/devicon/blob/master/icons/hackerrank/hackerrank-original.svg" title="HackerRank" alt="HackerRank" width="40" height="40"/>&nbsp; **HackerRank:** [Certification Name/Program]
 </div>
 
-Feel free to replace the placeholder text with specific certification names or details as needed!
-
-Feel free to replace the placeholder text with specific certification names or details as needed!
 ### Personal Details:
 - 🎓 **Senior Software Engineering Student**
 - 🔧 **Currently enhancing my coding skills**
@@ -88,10 +85,6 @@ Intervista is a cutting-edge platform designed to help job seekers prepare for i
 - **Backend:** Python and Flask for efficient server-side processing.
 - **AI Engine:** Natural Language Processing (NLP) for understanding and evaluating responses.
 - **Database:** PostgreSQL for secure data storage.
-
-Prepare for your next interview with Intervista and gain the confidence to succeed!
-
-Feel free to check out all my projects and work samples in this repository!
 
 ---
 
