@@ -7,16 +7,6 @@
 👋 Hi there! I'm a B.Tech student at Pranveer Singh Institute of Technology, graduating in 2026. I'm a passionate full-stack software engineer and writer with a love for programming, reading, writing, and public speaking.
 
 I enjoy using my obsessive attention to detail and unwavering passion for creating things that can change the world. My mission is to develop projects that make a difference.
-
-## Certifications
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tata/tata-original.svg" title="TATA Group" alt="TATA Group" width="40" height="40"/>&nbsp; **TATA Group:** [Certification Name/Program] <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoft/microsoft-original.svg" title="Microsoft" alt="Microsoft" width="40" height="40"/>&nbsp; **Microsoft:** [Certification Name/Program] <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flipkart/flipkart-original.svg" title="Flipkart" alt="Flipkart" width="40" height="40"/>&nbsp; **Flipkart:** [Certification Name/Program] <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unstop/unstop-original.svg" title="Unstop" alt="Unstop" width="40" height="40"/>&nbsp; **Unstop:** [Certification Name/Program] <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hackerrank/hackerrank-original.svg" title="HackerRank" alt="HackerRank" width="40" height="40"/>&nbsp; **HackerRank:** [Certification Name/Program]
-</div>
-
 ### Personal Details:
 - 🎓 **Senior Software Engineering Student**
 - 🔧 **Currently enhancing my coding skills**
