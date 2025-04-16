@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif" width="300"/>
+  <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif" width="300" loop />
 </div>
 
 ## About Me
@@ -106,5 +106,5 @@ I'm currently focused on:
 I'm always happy to help. Don't hesitate to ask me anything!
 
 <div align="center">
-  <img src="https://media.tenor.com/9Jlp55r7G1oAAAAj/milk-and-mocha.gif" width="300" />
+  <img src="https://media.tenor.com/9Jlp55r7G1oAAAAj/milk-and-mocha.gif" width="300" loop />
 </div>
