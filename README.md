@@ -46,7 +46,7 @@ Compassion.Net is a crowdfunding platform designed to support NGOs by facilitati
 
 Built using modern web technologies, Compassion.Net utilizes a robust framework for seamless user experience, secure payment processing, and real-time tracking of donations. Our responsive design ensures accessibility across devices, while data analytics tools help NGOs measure impact and engage supporters effectively. Join us in making a difference—together, we can create meaningful change!
 
-- [**EventEase**](https://event-ease-ten.vercel.app/) -**EventEase: Your All-in-One Event Management Platform**
+- [**EventEase**](https://github.com/TanushreeSarkar/EventEase) -**EventEase: Your All-in-One Event Management Platform**
 
 EventSync simplifies event planning with an intuitive dashboard, online ticketing, marketing tools, and real-time analytics. Perfect for corporate events, weddings, and community gatherings, our platform streamlines the entire process.
 
@@ -59,7 +59,7 @@ EventSync simplifies event planning with an intuitive dashboard, online ticketin
 
 With EventEase, planning your next event has never been easier!
 
-- [**Intervista**](https://link-to-your-project.com) - **Intervista: AI Mock Interview Preparation**
+- [**Intervista**](https://github.com/TanushreeSarkar/InterVista) - **Intervista: AI Mock Interview Preparation**
 
 Intervista is a cutting-edge platform designed to help job seekers prepare for interviews through realistic mock interview simulations. Our AI-driven technology provides personalized feedback, tailored questions, and industry-specific scenarios to boost your confidence and enhance your performance.
 
