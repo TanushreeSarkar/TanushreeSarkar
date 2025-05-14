@@ -12,10 +12,9 @@
 - 🌐 **Blogger** with over 10,000 readers
 - 💻 **Honing expertise** in Data Structures & Algorithms on HackerRank and LeetCode
 - 🗣️ **Passionate about** programming, public speaking, reading, and writing
-- ⚡ **Fun Fact**: I procrastinate but always deliver just in time!
 - 🤝 **Open to collaborating** on open-source projects and mutual growth opportunities
+- ⚡ **Fun Fact**: I procrastinate but always deliver just in time even I don't know how!
 
----
 
 ## 🌐 Connect with Me
 <div align="center">
@@ -26,8 +25,6 @@
   <a href="https://x.com/tanushreessk"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
   <a href="mailto:sarkartanushree287@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
----
 
 ## 💻 Tech Stack
 <div align="center">
@@ -82,36 +79,35 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style-for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style-for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
 
-  <h3>Design</h3>
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style-for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <h3>Design</h3>  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style-for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
----
 
 ## 🌟 Featured Projects
-- [**Compassion.Net**](https://compassion-net.vercel.app/)  
-  A crowdfunding platform to support NGOs with small donations for education, healthcare, and social justice.  
-  **Tech**: React, Node.js, MongoDB, Stripe, Google Analytics  
-  **Features**: Secure payments, real-time donation tracking, responsive design.
 
-- [**EventEase**](https://github.com/TanushreeSarkar/EventEase)  
-  An all-in-one event management platform with ticketing, marketing, and analytics.  
-  **Tech**: React, Node.js, Express, MongoDB, Stripe, Google Analytics  
-  **Features**: Intuitive dashboard, real-time insights, secure transactions.
+### 🚀 [![Compassion.Net](https://img.shields.io/badge/Visit-Compassion.Net-blue?style=for-the-badge)](https://compassion-net.vercel.app/)
+A crowdfunding platform to support NGOs with small donations for education, healthcare, and social justice.  
+**Tech**: React, Node.js, MongoDB, Stripe, Google Analytics  
+**Features**: Secure payments, real-time donation tracking, responsive design.
 
-- [**Intervista**](https://github.com/TanushreeSarkar/InterVista)  
-  An AI-powered mock interview platform with personalized feedback and industry-specific questions.  
-  **Tech**: Angular, Python, Flask, PostgreSQL, NLP  
-  **Features**: AI simulations, instant feedback, progress tracking.
+
+### 🎟️ [![EventEase](https://img.shields.io/badge/View-EventEase-brightgreen?style=for-the-badge)](https://github.com/TanushreeSarkar/EventEase)
+An all-in-one event management platform with ticketing, marketing, and analytics.  
+**Tech**: React, Node.js, Express, MongoDB, Stripe, Google Analytics  
+**Features**: Intuitive dashboard, real-time insights, secure transactions.
+
+
+### 🤖 [![Intervista](https://img.shields.io/badge/Explore-Intervista-purple?style=for-the-badge)](https://github.com/TanushreeSarkar/InterVista)
+An AI-powered mock interview platform with personalized feedback and industry-specific questions.  
+**Tech**: Angular, Python, Flask, PostgreSQL, NLP  
+**Features**: AI simulations, instant feedback, progress tracking.
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=highcontrast" alt="GitHub Streak")](https://git.io/streak-stats)/>
   <img src="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true&theme=highcontrast" alt="Tanushree's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=highcontrast" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeSarkar&layout=donut&theme=highcontrast" alt="Top Languages" />
 </div>
 
@@ -140,6 +136,5 @@ I'm always excited to connect, collaborate, or answer questions. Feel free to re
   <img src="https://media.tenor.com/9Jlp55r7G1oAAAAj/milk-and-mocha.gif" width="300" />
 </div>
 
----
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=TanushreeSarkar&label=Profile%20Views&color=6&icon=5&pretty=true)
+## ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TanushreeSarkar.repo-name&left_color=gray&right_color=blue)
