@@ -1,7 +1,12 @@
 <div id="header" align="center">
   <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif?raw=true" width="300" />
-  <h1>Hi, I'm Tanushree Sarkar! 👋</h1>
-  <p>A passionate B.Tech student (graduating 2026) and full-stack software engineer with a love for coding, writing, and creating impactful projects.</p>
+  <h1>Hi, I'm Tanushree Sarkar! 👋</h1> 
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=500&lines=Hi+This+Is+Tanushree;B.Tech+2026+Student;Machine+Learning+Enthusiast;AI+Explorer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
 </div>
 
 ---
