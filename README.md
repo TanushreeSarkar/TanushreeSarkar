@@ -90,11 +90,10 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [![Compassion.Net](https://img.shields.io/badge/Visit-Compassion.Net-blue?style=for-the-badge)](https://compassion-net.vercel.app/)
-A crowdfunding platform to support NGOs with small donations for education, healthcare, and social justice.  
-**Tech**: React, Node.js, MongoDB, Stripe, Google Analytics  
-**Features**: Secure payments, real-time donation tracking, responsive design.
-
+### 🚀 [![Uplifters.Net](https://img.shields.io/badge/Visit-Uplifters.Net-blue?style=for-the-badge)](https://uplifters-net.vercel.app/)  
+**Uplifters.Net** is a web-based donation and volunteer management platform designed to connect donors with causes related to clothing, food, and education support.  
+**Tech**: HTML, CSS, JavaScript  
+**Features**: Category-based donations, real-time impact cards and counters, responsive UI, visual testimonials.
 
 ### 🎟️ [![EventEase](https://img.shields.io/badge/View-EventEase-brightgreen?style=for-the-badge)](https://github.com/TanushreeSarkar/EventEase)
 An all-in-one event management platform with ticketing, marketing, and analytics.  
