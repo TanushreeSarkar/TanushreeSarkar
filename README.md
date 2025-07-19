@@ -1,15 +1,13 @@
 <div id="header" align="center">
-  <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif?raw=true" width="300" />
   <h1>Hi, I'm Tanushree Sarkar! 👋</h1> 
-</div>
+  <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif?raw=true" width="300" />
+  </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=500&lines=Hi+This+Is+Tanushree;B.Tech+2026+Student;Machine+Learning+Enthusiast;AI+Explorer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=500&lines=Hi,+Tanushree+|+B.Tech'26+Student;Machine+Learning+Enthusiast;AI+Explorer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 </div>
 
----
 
 ## 💫 About Me
 - 🎓 **Senior Software Engineering Student** at Pranveer Singh Institute of Technology
@@ -23,7 +21,7 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://bsky.app/profile/https://www.blogger.com/blog/posts/2488428839502386348"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky"></a>
+  <a href="https://www.blogger.com/blog/posts/2488428839502386348"><img src="https://img.shields.io/badge/blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Blog"></a>
   <a href="https://discord.gg/rrQbQ4XX"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://instagram.com/rebel.tanu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/tanushree-sarkar-32635624b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
