@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I'm Tanushree Sarkar! 👋</h1> 
-  <img src="https://github.com/TanushreeSarkar/About-me-/blob/main/1-unscreen.gif?raw=true" width="300" />
+  <img src="https://github.com/TanushreeSarkar/TanushreeSarkar/blob/main/working.gif?raw=true" width="300" alt="Working GIF" />
   </div>
 
 <div align="center">
