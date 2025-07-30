@@ -107,11 +107,11 @@ An AI-powered mock interview platform with personalized feedback and industry-sp
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=highcontrast" alt="GitHub Streak")](https://git.io/streak-stats)/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true&theme=highcontrast" alt="Tanushree's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeSarkar&layout=donut&theme=highcontrast" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeSarkar&layout=compact&theme=radical" />
+</p>
 
 ---
 
