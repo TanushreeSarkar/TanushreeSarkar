@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 520" width="780" height="520" role="img" aria-label="Tanushree Sarkar featured projects">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shineX{0%{transform:translateX(-180px) skewX(-15deg)}60%,100%{transform:translateX(960px) skewX(-15deg)}}
+.card{opacity:0;animation:fadeUp .55s ease forwards}
+.sh{animation:shineX 5.5s ease-in-out 2.8s infinite}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="p1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#818cf8"/></linearGradient>
+<linearGradient id="p2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="p3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#c084fc"/><stop offset="100%" stop-color="#f472b6"/></linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".05"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="778" height="518" rx="16"/></clipPath>
+</defs>
+
+<rect x="1" y="1" width="778" height="518" rx="16" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
+<text x="28" y="46" font-size="20" font-weight="bold" fill="url(#tg)">🌟 Featured Projects</text>
+<line x1="28" y1="60" x2="752" y2="60" stroke="#2a1f3d" stroke-width="1"/>
+
+<!-- Project 1: Uplifters.Net -->
+<g class="card" style="animation-delay:0.30s">
+  <rect x="28" y="82" width="724" height="128" rx="12" fill="#1b1230" stroke="url(#p1)" stroke-width="1.2"/>
+  <text x="52" y="114" font-size="16">🚀</text>
+  <text x="78" y="114" font-size="15" font-weight="bold" fill="url(#p1)">Uplifters.Net</text>
+  <rect x="640" y="98" width="88" height="22" rx="11" fill="none" stroke="url(#p1)" stroke-width="1"/>
+  <text x="684" y="113" text-anchor="middle" font-size="10.5" fill="url(#p1)" font-weight="bold">VISIT SITE</text>
+  <text x="52" y="140" font-size="12.5" fill="#c9d1d9">Donation &amp; volunteer management platform connecting donors with causes</text>
+  <text x="52" y="158" font-size="12.5" fill="#c9d1d9">related to clothing, food, and education support.</text>
+  <text x="52" y="184" font-size="11" fill="#8b949e">TECH</text>
+  <text x="90" y="184" font-size="11" fill="#e6edf3">HTML • CSS • JavaScript</text>
+  <text x="52" y="200" font-size="11" fill="#8b949e">FEATURES</text>
+  <text x="120" y="200" font-size="11" fill="#e6edf3">Category donations • Real-time impact counters • Responsive UI</text>
+</g>
+
+<!-- Project 2: EventEase -->
+<g class="card" style="animation-delay:0.55s">
+  <rect x="28" y="222" width="724" height="128" rx="12" fill="#1b1230" stroke="url(#p2)" stroke-width="1.2"/>
+  <text x="52" y="254" font-size="16">🎟️</text>
+  <text x="78" y="254" font-size="15" font-weight="bold" fill="url(#p2)">EventEase</text>
+  <rect x="628" y="238" width="100" height="22" rx="11" fill="none" stroke="url(#p2)" stroke-width="1"/>
+  <text x="678" y="253" text-anchor="middle" font-size="10.5" fill="url(#p2)" font-weight="bold">VIEW REPO</text>
+  <text x="52" y="280" font-size="12.5" fill="#c9d1d9">All-in-one event management platform with ticketing, marketing,</text>
+  <text x="52" y="298" font-size="12.5" fill="#c9d1d9">and analytics for organizers.</text>
+  <text x="52" y="324" font-size="11" fill="#8b949e">TECH</text>
+  <text x="90" y="324" font-size="11" fill="#e6edf3">React • Node.js • Express • MongoDB • Stripe • GA</text>
+  <text x="52" y="340" font-size="11" fill="#8b949e">FEATURES</text>
+  <text x="120" y="340" font-size="11" fill="#e6edf3">Intuitive dashboard • Real-time insights • Secure transactions</text>
+</g>
+
+<!-- Project 3: InterVista -->
+<g class="card" style="animation-delay:0.80s">
+  <rect x="28" y="362" width="724" height="128" rx="12" fill="#1b1230" stroke="url(#p3)" stroke-width="1.2"/>
+  <text x="52" y="394" font-size="16">🤖</text>
+  <text x="78" y="394" font-size="15" font-weight="bold" fill="url(#p3)">InterVista</text>
+  <rect x="628" y="378" width="100" height="22" rx="11" fill="none" stroke="url(#p3)" stroke-width="1"/>
+  <text x="678" y="393" text-anchor="middle" font-size="10.5" fill="url(#p3)" font-weight="bold">EXPLORE</text>
+  <text x="52" y="420" font-size="12.5" fill="#c9d1d9">AI-powered mock interview platform with personalized feedback</text>
+  <text x="52" y="438" font-size="12.5" fill="#c9d1d9">and industry-specific questions.</text>
+  <text x="52" y="464" font-size="11" fill="#8b949e">TECH</text>
+  <text x="90" y="464" font-size="11" fill="#e6edf3">Angular • Python • Flask • PostgreSQL • NLP</text>
+  <text x="52" y="480" font-size="11" fill="#8b949e">FEATURES</text>
+  <text x="120" y="480" font-size="11" fill="#e6edf3">AI simulations • Instant feedback • Progress tracking</text>
+</g>
+
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="180" height="520" fill="url(#shg)"/></g>
+</svg>

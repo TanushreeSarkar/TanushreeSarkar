@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="500" height="300" role="img" aria-label="Tanushree Sarkar currently learning">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shineX{0%{transform:translateX(-140px) skewX(-15deg)}60%,100%{transform:translateX(640px) skewX(-15deg)}}
+@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+.row{opacity:0;animation:fadeUp .5s ease forwards}
+.sh{animation:shineX 5s ease-in-out 2.4s infinite}
+.dot{animation:pulse 1.8s ease-in-out infinite}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".06"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="498" height="298" rx="16"/></clipPath>
+</defs>
+
+<rect x="1" y="1" width="498" height="298" rx="16" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
+<text x="26" y="42" font-size="18" font-weight="bold" fill="url(#tg)">📚 Currently Learning</text>
+<line x1="26" y1="56" x2="474" y2="56" stroke="#2a1f3d" stroke-width="1"/>
+
+  <g class="row" style="animation-delay:0.30s">
+    <circle class="dot" cx="34" cy="86" r="4" fill="#ff7eb6" style="animation-delay:0s"/>
+    <text x="50" y="91" font-size="13.5" fill="#e6edf3">Data Structures &amp; Algorithms</text>
+  </g>
+  <g class="row" style="animation-delay:0.48s">
+    <circle class="dot" cx="34" cy="122" r="4" fill="#c084fc" style="animation-delay:.3s"/>
+    <text x="50" y="127" font-size="13.5" fill="#e6edf3">Cloud Computing <tspan fill="#8b949e">(Azure, Google Cloud)</tspan></text>
+  </g>
+  <g class="row" style="animation-delay:0.66s">
+    <circle class="dot" cx="34" cy="158" r="4" fill="#7dd3fc" style="animation-delay:.6s"/>
+    <text x="50" y="163" font-size="13.5" fill="#e6edf3">AI Model Development <tspan fill="#8b949e">(TensorFlow, PyTorch)</tspan></text>
+  </g>
+  <g class="row" style="animation-delay:0.84s">
+    <circle class="dot" cx="34" cy="194" r="4" fill="#4ade80" style="animation-delay:.9s"/>
+    <text x="50" y="199" font-size="13.5" fill="#e6edf3">System Design Tools</text>
+  </g>
+  <g class="row" style="animation-delay:1.02s">
+    <circle class="dot" cx="34" cy="230" r="4" fill="#fde047" style="animation-delay:1.2s"/>
+    <text x="50" y="235" font-size="13.5" fill="#e6edf3">Time &amp; Stress Management</text>
+  </g>
+
+<rect x="26" y="256" width="448" height="24" rx="12" fill="#1d1330" opacity="0" style="animation:fadeUp .5s ease 1.3s forwards"/>
+<text x="250" y="272" text-anchor="middle" font-size="11" fill="#8b949e" opacity="0" style="animation:fadeUp .5s ease 1.4s forwards">Always learning, always growing 🌱</text>
+
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="120" height="300" fill="url(#shg)"/></g>
+</svg>

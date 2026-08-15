@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" role="img" aria-label="About Tanushree Sarkar">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shineX{0%{transform:translateX(-160px) skewX(-15deg)}60%,100%{transform:translateX(760px) skewX(-15deg)}}
+@keyframes twinkle{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1)}}
+.row{opacity:0;animation:fadeUp .5s ease forwards}
+.sh{animation:shineX 5s ease-in-out 2.6s infinite}
+.tw{transform-box:fill-box;transform-origin:center;animation:twinkle 2.6s ease-in-out infinite}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".06"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="758" height="428" rx="16"/></clipPath>
+</defs>
+
+<rect x="1" y="1" width="758" height="428" rx="16" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
+<text x="28" y="46" font-size="20" font-weight="bold" fill="url(#tg)">💫 About Me</text>
+<line x1="28" y1="60" x2="732" y2="60" stroke="#2a1f3d" stroke-width="1"/>
+
+<g class="tw" style="animation-delay:.3s"><path d="M700 30l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#f0abfc"/></g>
+<g class="tw" style="animation-delay:1.4s"><path d="M56 400l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#ff7eb6"/></g>
+
+  <g class="row" style="animation-delay:0.35s">
+    <text x="28" y="98" font-size="16">🎓</text>
+    <text x="56" y="98" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#ff7eb6">Final-Year B.Tech (CSAIML)</tspan> student at Pranveer Singh Institute of Technology</text>
+  </g>
+  <g class="row" style="animation-delay:0.55s">
+    <text x="28" y="134" font-size="16">💻</text>
+    <text x="56" y="134" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#c084fc">Software Engineer</tspan> passionate about scalable backend systems &amp; AI-powered apps</text>
+  </g>
+  <g class="row" style="animation-delay:0.75s">
+    <text x="28" y="170" font-size="16">☕</text>
+    <text x="56" y="170" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#7dd3fc">Tech Stack:</tspan> Java, Spring Boot, React, Node.js, Python, MySQL, MongoDB &amp; Docker</text>
+  </g>
+  <g class="row" style="animation-delay:0.95s">
+    <text x="28" y="206" font-size="16">🤖</text>
+    <text x="56" y="206" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#4ade80">Currently exploring</tspan> AI Agents, RAG systems, LLM integrations &amp; cloud tech</text>
+  </g>
+  <g class="row" style="animation-delay:1.15s">
+    <text x="28" y="242" font-size="16">🧩</text>
+    <text x="56" y="242" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#fde047">Strong DSA foundation</tspan> with hands-on full-stack project experience</text>
+  </g>
+  <g class="row" style="animation-delay:1.35s">
+    <text x="28" y="278" font-size="16">🌱</text>
+    <text x="56" y="278" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#ff7eb6">Always learning</tspan> new tech &amp; building projects that solve real problems</text>
+  </g>
+  <g class="row" style="animation-delay:1.55s">
+    <text x="28" y="314" font-size="16">🤝</text>
+    <text x="56" y="314" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#c084fc">Open to</tspan> internships, open-source collabs &amp; software engineering roles</text>
+  </g>
+  <g class="row" style="animation-delay:1.75s">
+    <text x="28" y="350" font-size="16">⚡</text>
+    <text x="56" y="350" font-size="14.5" fill="#e6edf3"><tspan font-weight="bold" fill="#7dd3fc">Fun Fact:</tspan> I somehow finish projects right before the deadline... and they still work 😄</text>
+  </g>
+
+<rect x="28" y="376" width="704" height="30" rx="8" fill="#1d1330" opacity="0" style="animation:fadeUp .6s ease 2s forwards"/>
+<text x="380" y="396" text-anchor="middle" font-size="12.5" fill="#8b949e" opacity="0" style="animation:fadeUp .6s ease 2.1s forwards">"Code. Learn. Repeat." — Tanushree Sarkar</text>
+
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="140" height="430" fill="url(#shg)"/></g>
+</svg>
