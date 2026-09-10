@@ -23,21 +23,21 @@
 
 ## 💫 About Me
 
-- 🎓 **Final-Year B.Tech (CSAIML)** student at **Pranveer Singh Institute of Technology**
+* 🎓 **B.Tech (CSAIML) — Batch 2026** at **Pranveer Singh Institute of Technology, Kanpur**
 
-- 💻 **Software Engineer** passionate about building scalable backend systems and AI-powered applications
+* 💻 **Technical Intern** with **4 months of experience** working on a real-world product, gaining hands-on experience in software development and engineering workflows
 
-- ☕ **Tech Stack:** Java, Spring Boot, React, Node.js, Python, MySQL, MongoDB & Docker
+* 🧑‍💻 **Software Engineer** interested in building reliable backend systems, full-stack applications, and practical software solutions
 
-- 🤖 **Currently exploring** AI Agents, RAG systems, LLM integrations, and cloud technologies
+* ☕ **Core Technologies:** Java, Spring Boot, React, Node.js, Python, TypeScript, databases & cloud technologies
 
-- 🧩 **Strong foundation** in Data Structures & Algorithms with hands-on full-stack project experience
+* 🤖 **AI Enthusiast** exploring Generative AI, LLMs, AI Agents, and intelligent application development
 
-- 🌱 **Always learning** new technologies and building projects that solve real-world problems
+* ☁️ **Cloud & Backend Focused**, with an interest in scalable systems, modern architectures, APIs, and cloud-native technologies
 
-- 🤝 **Open to** internships, open-source collaborations, and exciting software engineering opportunities
+* 🌱 **Always Learning**, experimenting with new technologies and continuously leveling up as a software engineer
 
-- ⚡ **Fun Fact:** I somehow finish projects right before the deadline... and they still work. 😄
+* ⚡ **Fun Fact:** I procrastinate like it’s a skill, then somehow pull everything together before the deadline. 😭
 
 </td>
 
@@ -45,41 +45,283 @@
 
 </table>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+</p>
 
-<img src="./skills.svg" alt="Tech Stack" width="780"/>
+### 💻 Technology Stack
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+### 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🇮🇳 Smart India Hackathon 2025
+
+**Top Finalist · Representing PSIT Kanpur**
+
+🤖 **AI-Based Smart Land Record Management System**
+
+Built an AI-driven solution for smarter and more efficient land-record management as part of **Smart India Hackathon 2025**.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🧠 500+ DSA Problems
+
+Solved **500+ Data Structures & Algorithms problems**, building strong foundations in problem-solving, algorithms, and competitive programming.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 10+ Projects Built
+
+Developed **10+ projects** across full-stack development, backend engineering, and AI-powered applications, turning ideas into working products.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ✍️ 10,000+ Blog Readers
+
+Reached **10,000+ readers** through technical content, sharing development knowledge, project experiences, and what I've learned along the way.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+<p align="center">
 
-### 🚀 [![🌍 Visit Uplifters.Net](https://img.shields.io/badge/🌍_Visit-Uplifters.Net-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827)](https://uplifters-net.vercel.app/)
+<img src="https://img.shields.io/badge/🤖_AI-Projects-7C3AED?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Full--Stack-Engineering-2563EB?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_Building-Real--World_Products-10B981?style=flat-square"/>
 
-**Uplifters.Net** is a web-based donation and volunteer management platform designed to connect donors with causes related to clothing, food, and education support.
+</p>
 
-**Tech**: HTML, CSS, JavaScript
 
-**Features**: Category-based donations, real-time impact cards and counters, responsive UI, visual testimonials.
+### 🌱 Currently Learning
 
-### 🎟️ [![🎟️ View EventEase](https://img.shields.io/badge/🎟️_View-EventEase-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827)](https://github.com/TanushreeSarkar/EventEase)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An all-in-one event management platform with ticketing, marketing, and analytics.
+#### 🤖 Generative AI
 
-**Tech**: React, Node.js, Express, MongoDB, Stripe, Google Analytics
+Exploring **LLMs, AI Agents, RAG, prompt engineering, and LLM-powered applications** to build more intelligent software.
 
-**Features**: Intuitive dashboard, real-time insights, secure transactions.
+</td>
 
-### 🤖 [![🤖 Explore InterVista](https://img.shields.io/badge/🤖_Explore-InterVista-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=111827)](https://github.com/TanushreeSarkar/InterVista)
+<td width="50%" valign="top">
 
-An AI-powered mock interview platform with personalized feedback and industry-specific questions.
+#### ☁️ Cloud & DevOps
 
-**Tech**: Angular, Python, Flask, PostgreSQL, NLP
+Going deeper into **AWS, GCP, Docker, and Kubernetes** with a focus on deploying and scaling applications.
 
-**Features**: AI simulations, instant feedback, progress tracking.
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🏗️ System Design
+
+Learning how to design **scalable, reliable, and maintainable systems**, from APIs and databases to distributed architectures.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ⚡ Backend Engineering
+
+Exploring **Redis, caching, API performance, database optimization, and scalable backend architecture**.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+</p>
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🤖 InterVista
+
+**AI-Powered Mock Interview Platform**
+
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+
+An intelligent interview platform designed to simulate real interviews and provide personalized AI-powered feedback.
+
+**⚡ Highlights**
+
+🎤 Voice Interviews
+🧠 AI Evaluation
+📊 Progress Tracking
+🔐 Secure Authentication
+
+**🛠️ Stack**
+
+`Next.js` `TypeScript`
+`Express` `Firebase`
+`LLMs` `Whisper`
+
+<br>
+
+<a href="https://github.com/TanushreeSarkar/InterVista">
+<img src="https://img.shields.io/badge/⭐_View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 💼 NexusCRM
+
+**Full-Stack CRM & Sales Dashboard**
+
+<img src="https://img.shields.io/badge/Full--Stack-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+
+A full-stack CRM platform for managing customers, sales pipelines, tasks, analytics, and business insights.
+
+**⚡ Highlights**
+
+📊 Sales Analytics
+👥 Customer Management
+📈 Pipeline Tracking
+⚡ Interactive Dashboard
+
+**🛠️ Stack**
+
+`Java` `Spring Boot`
+`React` `TypeScript`
+`REST APIs`
+
+<br>
+
+<a href="https://github.com/TanushreeSarkar/CRM-sales-dashboard">
+<img src="https://img.shields.io/badge/⭐_View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🧠 HireLight ATS
+
+**AI Resume & Job Matching Platform**
+
+<img src="https://img.shields.io/badge/AI%2FML-F59E0B?style=for-the-badge&logo=google&logoColor=white" />
+
+An AI-powered ATS that analyzes resumes, evaluates job fit, identifies skill gaps, and provides actionable career insights.
+
+**⚡ Highlights**
+
+📄 Resume Analysis
+🎯 JD Fit Scoring
+💡 Skill Recommendations
+📊 ATS Dashboard
+
+**🛠️ Stack**
+
+`React` `Node.js`
+`Firebase` `Genkit`
+`AI`
+
+<br>
+
+<a href="https://github.com/TanushreeSarkar/HireLightATS">
+<img src="https://img.shields.io/badge/⭐_View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
 
 ## 📊 GitHub Analytics
 
@@ -95,21 +337,6 @@ An AI-powered mock interview platform with personalized feedback and industry-sp
 <!-- 📈 Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushreeSarkar&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" width="95%" />
 
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./achievements.svg" alt="Achievements" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./learning.svg" alt="Currently Learning" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ## 🌐 Connect with Me
 <div align="center">
